@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 字符版计算器1",
+            "request": "launch",
+            "mainClass": "字符版计算器1",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 字符版计算器",
+            "request": "launch",
+            "mainClass": "字符版计算器",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 请输入您的姓名",
+            "request": "launch",
+            "mainClass": "请输入您的姓名",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 请输入您的姓名",
+            "request": "launch",
+            "mainClass": "翟亚红.请输入您的姓名",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
