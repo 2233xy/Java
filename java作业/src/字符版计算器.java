@@ -16,5 +16,6 @@ public class 字符版计算器 {
         System.out.println("X - Y =" + result1);
         System.out.println("X * Y =" + result2);
         System.out.println("X / Y =" + result3);
+        scanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class 字符版计算器1 {
         System.out.println(num1+"-"+ num2 + "=" + result1);
         System.out.println(num1+"*"+ num2 + "=" + result2);
         System.out.println(num1+"/"+ num2 + "=" + result3);
+        scanner.close();
     }
 }
