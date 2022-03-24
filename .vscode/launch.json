@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch 成绩统计",
+            "request": "launch",
+            "mainClass": "成绩统计",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 计算矩形的面积周长",
+            "request": "launch",
+            "mainClass": "计算矩形的面积周长",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 计算圆面积周长",
+            "request": "launch",
+            "mainClass": "计算圆面积周长",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Score",
+            "request": "launch",
+            "mainClass": "Score",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrTest",
+            "request": "launch",
+            "mainClass": "ArrTest",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 住房贷款还款计算",
+            "request": "launch",
+            "mainClass": "住房贷款还款计算",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 平抛小球与抛出点之间的距离",
+            "request": "launch",
+            "mainClass": "平抛小球与抛出点之间的距离",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
             "name": "Launch 按大小排列",
             "request": "launch",
             "mainClass": "按大小排列",
