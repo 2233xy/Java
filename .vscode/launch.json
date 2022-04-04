@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
             "name": "Launch 成绩统计",
             "request": "launch",
             "mainClass": "成绩统计",
