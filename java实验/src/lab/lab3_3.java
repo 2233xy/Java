@@ -1,3 +1,4 @@
+package lab;
 interface Display {
     void display();
 }
