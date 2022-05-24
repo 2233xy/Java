@@ -1,3 +1,4 @@
+package lab;
 import java.util.Scanner;
 
 public class 计算圆面积周长 {

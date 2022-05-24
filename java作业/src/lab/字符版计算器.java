@@ -1,3 +1,4 @@
+package lab;
 import java.util.Scanner;
 
 public class 字符版计算器 {

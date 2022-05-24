@@ -1,3 +1,4 @@
+package lab;
 import java.util.Scanner;
 
 class 打印成绩 {

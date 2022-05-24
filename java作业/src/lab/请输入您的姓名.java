@@ -1,3 +1,4 @@
+package lab;
 import java.util.Scanner;
 
 public class 请输入您的姓名 {

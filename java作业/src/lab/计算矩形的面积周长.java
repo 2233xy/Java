@@ -1,3 +1,4 @@
+package lab;
 import java.util.Scanner;
 
 public class 计算矩形的面积周长 {

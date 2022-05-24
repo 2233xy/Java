@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ChatServer",
+            "request": "launch",
+            "mainClass": "lab2.ChatServer",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Client",
+            "request": "launch",
+            "mainClass": "lab1.Client",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Server",
+            "request": "launch",
+            "mainClass": "lab1.Server",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolygonalArea",
+            "request": "launch",
+            "mainClass": "PolygonalArea",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArtFont",
+            "request": "launch",
+            "mainClass": "ArtFont",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 记事本",
+            "request": "launch",
+            "mainClass": "记事本",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddOperator",
+            "request": "launch",
+            "mainClass": "AddOperator",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 整数加法器",
+            "request": "launch",
+            "mainClass": "整数加法器",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch Label",
+            "request": "launch",
+            "mainClass": "Label",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
             "name": "Launch Temperature",
             "request": "launch",
             "mainClass": "Temperature",
