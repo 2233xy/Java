@@ -1,3 +1,13 @@
+/*
+ * @Author: 2233xy 94818928+2233xy@users.noreply.github.com
+ * @Date: 2022-03-10 12:31:14
+ * @LastEditors: 2233xy 94818928+2233xy@users.noreply.github.com
+ * @LastEditTime: 2022-05-25 00:07:08
+ * @FilePath: \Java\java作业\src\lab\请输入您的姓名.java
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by 2233xy 94818928+2233xy@users.noreply.github.com, All Rights Reserved. 
+ */
 package lab;
 import java.util.Scanner;
 

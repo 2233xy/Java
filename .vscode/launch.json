@@ -6,6 +6,46 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch TestDB",
+            "request": "launch",
+            "mainClass": "TestDB"
+        },
+        {
+            "type": "java",
+            "name": "Launch Encrypt",
+            "request": "launch",
+            "mainClass": "lab3.Encrypt",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainFrame",
+            "request": "launch",
+            "mainClass": "com.database.UI.MainFrame"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainFrame",
+            "request": "launch",
+            "mainClass": "MainFrame",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThreadClassOne",
+            "request": "launch",
+            "mainClass": "lab4.ThreadClassOne",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
+            "name": "Launch 请输入您的姓名",
+            "request": "launch",
+            "mainClass": "lab.请输入您的姓名",
+            "projectName": "Java_64f58aee"
+        },
+        {
+            "type": "java",
             "name": "Launch ChatServer",
             "request": "launch",
             "mainClass": "lab2.ChatServer",

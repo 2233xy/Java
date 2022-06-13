@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "java实验/src/lab1",
         "java作业/src",
-        "java实验/src/lab1"
+        "JdbcMySQLExample/src/com/database/UI"
     ]
 }
